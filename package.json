@@ -7,6 +7,7 @@
   "author": "Nigel Poulton <nigelpoulton@hotmail.com>",
   "license": "You'd have to be mad to use this in production :-D",
   "dependencies": {
+    "circleci": "^0.3.3",
     "constantinople": "^4.0.1",
     "express": "4.17.3",
     "formidable": "^2.0.1",
